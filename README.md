@@ -1,4 +1,4 @@
-# Project : Azure IaaS - Windows Server 2025 Deployment & Administration
+# Project 4: Azure IaaS - Windows Server 2025 Deployment & Administration
 
 ## 📌 Project Overview
 This project demonstrates the end-to-end provisioning of a **Windows Server 2025** environment on Microsoft Azure using the **Infrastructure-as-a-Service (IaaS)** model. It showcases hands-on expertise in cloud networking, Network Security Group (NSG) configuration, and secure remote administration.
@@ -33,10 +33,21 @@ For practical evaluation, the instance can be accessed via Remote Desktop Protoc
 ## 📂 Project Structure & Evidence
 All implementation evidence is stored in the `/screenshots` folder:
 
-1. `01-VM-Configuration.png`: Initial setup of VM Size and Image.
-2. `02-Network-Security-Rules.png`: Configuration of RDP Port 3389 in NSG.
-3. `03-Deployment-Success.png`: Final Azure Resource Manager (ARM) deployment success message.
-4. `04-Cloud-Desktop-Live.png`: Successful RDP session into the Windows Server 2025 desktop.
+### 1. VM Configuration & Specs
+![VM Configuration](./screenshots/01-VM-Configuration.png)
+*Initial setup of VM Size and OS Image selection.*
+
+### 2. Network Security Rules
+![Network Rules](./screenshots/02-Network-Security-Rules.png)
+*Strict configuration of RDP Port 3389 in NSG.*
+
+### 3. Deployment Status
+![Deployment Success](./screenshots/03-Deployment-Success.png)
+*Final Azure Resource Manager (ARM) deployment success confirmation.*
+
+### 4. Live Cloud Desktop Access
+![Cloud Desktop](./screenshots/04-Cloud-Desktop-Live.png)
+*Active RDP session into the provisioned Windows Server 2025 instance.*
 
 ## 🧠 Core Competencies
 * Cloud Resource Provisioning (IaaS)
