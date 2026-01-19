@@ -1,4 +1,4 @@
-# Project 4: Azure IaaS - Windows Server 2025 Deployment & Administration
+# Project : Azure IaaS - Windows Server 2025 Deployment & Administration
 
 ## 📌 Project Overview
 This project demonstrates the end-to-end provisioning of a **Windows Server 2025** environment on Microsoft Azure using the **Infrastructure-as-a-Service (IaaS)** model. It showcases hands-on expertise in cloud networking, Network Security Group (NSG) configuration, and secure remote administration.
