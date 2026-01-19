@@ -17,6 +17,9 @@ For practical evaluation, the instance can be accessed via Remote Desktop Protoc
 * **Password:** `Azureuser123`
 * **Port:** 3389 (RDP)
 
+> [!IMPORTANT]
+> **Cost Optimization Note:** To maximize the utility of the Azure for Students credit, this Virtual Machine is kept in a **'Stopped (Deallocated)'** state when not in use. If you wish to evaluate the live environment or test the RDP connection, please contact me at **mobasherarefint2001@gmail.com** or **21-45062-2@student.aiub.edu**, and I will activate the instance immediately for your review.
+
 ## 🚀 Key Technical Implementations
 
 ### 1. Secure Networking & NSG Rules
